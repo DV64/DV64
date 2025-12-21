@@ -5,6 +5,14 @@
   
   <br>
 
+  <p align="center">
+      <a href="https://github.com/DV64?tab=repositories">
+        <img src="https://img.shields.io/badge/View_My_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+  </p>
+
+  <br>
+
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -22,14 +30,6 @@
     <a href="https://github.com/DV64">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DV64&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&hide_border=true&langs_count=6" height="160" />
     </a>
-  </p>
-  
-  <br>
-  
-  <p align="center">
-      <a href="https://github.com/DV64?tab=repositories">
-        <img src="https://img.shields.io/badge/View_My_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
   </p>
 </div>
 
